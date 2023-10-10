@@ -2,7 +2,6 @@
 My name is Oskar and i'm a web developer from Sweden. I am currently studying my final year at <a href="https://lnu.se/en/">Linneus University</a> at the programme Interactive Media and Webtechnologies.
 
 - 📫 How to reach me: [hokkanen.oskar@gmail.com](mailto:hokkanen.oskar@gmail.com)
-- 🌱 I’m currently learning the basics of ML and a little of everything i can get my hands on.
 - 🧗‍♂️ In my sparetime i like to climb. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OskarHokkanen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
